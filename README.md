@@ -18,3 +18,4 @@ https://super-fog-4a6.notion.site/Section1-0ec9ec103a14410ba4ddb65166b09069?pvs=
 - Api 방식
 
 **강의 정리**
+https://super-fog-4a6.notion.site/Section2-b0c0f73b3563452396aa88273c858c11?pvs=4
