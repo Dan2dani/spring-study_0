@@ -9,6 +9,8 @@ import java.util.Optional;
 public class MemberService {
     private final MemberRepository memberRepository;
 
+    // DI 중 한 방법: 생성자 주입
+    // 의존관계가 실행중에 동적으로 변하는 경우는 거의 없으므로 생성자 주입을 권장한다
     public MemberService(MemberRepository memberRepository) {
         this.memberRepository = memberRepository;
     }
