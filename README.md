@@ -38,3 +38,9 @@ https://super-fog-4a6.notion.site/Section3-374435656cbd48f5926cbee43cc9f53d?pvs=
 
 **강의 정리**
 https://super-fog-4a6.notion.site/Section4-faebb7f4beff4a2188ad9bbc5ae76076?pvs=4
+
+### 💙 Section5
+**강의 내용**
+- 회원 웹 기능 - 홈 화면 추가
+- 회원 웹 기능 - 등록
+- 회원 웹 기능 - 조회
