@@ -44,3 +44,15 @@ https://super-fog-4a6.notion.site/Section4-faebb7f4beff4a2188ad9bbc5ae76076?pvs=
 - 회원 웹 기능 - 홈 화면 추가
 - 회원 웹 기능 - 등록
 - 회원 웹 기능 - 조회
+
+### 💜 Section6
+**강의 내용**
+-  H2 데이터베이스 설치
+- 순수  JDBC
+- 스프링 통합 테스트
+- 스프링 JdbcTemplate
+- JPA
+- 스프링 데이터 JPA
+
+**강의 정리**
+https://super-fog-4a6.notion.site/Section6-DB-0768c4e7358e4f2993f2af12f545a206?pvs=4
