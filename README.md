@@ -56,3 +56,11 @@ https://super-fog-4a6.notion.site/Section4-faebb7f4beff4a2188ad9bbc5ae76076?pvs=
 
 **강의 정리**
 https://super-fog-4a6.notion.site/Section6-DB-0768c4e7358e4f2993f2af12f545a206?pvs=4
+
+### 🩷 Section7
+**강의 내용**
+- AOP
+- AOP 적용하기
+
+**강의 정리**
+https://super-fog-4a6.notion.site/Section7-AOP-5805293679224becb58592fa8d211d66?pvs=4
